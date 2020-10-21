@@ -8,7 +8,7 @@ This package also provides several useful make commands for generating classes w
 # To Install
 ```bash
 
-composer require anteris-dev/domain-driven-laravel
+composer require anteris-dev/domain-driven-laravel --dev
 
 ```
 

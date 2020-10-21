@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Composer file has less restrictive versioning constraints
+- README suggests installing the package as a dev dependency
 
 ## [0.1.0] - 2020-10-20
 
